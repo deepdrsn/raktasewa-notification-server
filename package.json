@@ -1,7 +1,7 @@
 {
   "name": "raktasewa-notification-server",
   "version": "1.0.0",
-  "main": "api/sendNotification.js",
+  "main": "api/notify.js",
   "dependencies": {
     "firebase-admin": "^12.0.0"
   }
